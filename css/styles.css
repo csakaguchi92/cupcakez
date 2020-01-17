@@ -1,0 +1,12 @@
+.flashy{
+  color: red;
+  font-style: oblique;
+}
+
+.best{
+  color: pink;
+  font-size: 100px;
+  letter-spacing: 100px;
+  font-weight: bold; 
+  font-family: 'Courier New', Courier, monospace;
+}
